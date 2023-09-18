@@ -4,7 +4,7 @@ I'm Jennifer. I'm a Data scientist and analyst. I want to share the work I have 
 
 
 ## 🛠 Skills
-Python, Stata, SQL, PowerBI, Git, Azue and Látex
+Python, Stata, SQL, PowerBI, Git, Azure and Látex
 
 ## Other Common Github Profile Sections
 🧠 I'm currently learning other supervised and unsupervised learning techniques.
